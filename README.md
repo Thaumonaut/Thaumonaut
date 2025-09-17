@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jacob Perry
+# My Name is Jacob Perry
+though I sometimes also go by jek (itmejek) online
 
 Hello, GitHub! 👋
 
