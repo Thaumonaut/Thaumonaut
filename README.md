@@ -1,5 +1,5 @@
 Hello, GitHub! 👋
-# My Name is Jacob Perry
+# My Name is Jacob
 (*He/Him*)
 
 I'm a **student** at Brigham Young University-Idaho interested in **user interface and software development**. Please have a look around and if you find anything that interests you reach out and let's chat about it!
