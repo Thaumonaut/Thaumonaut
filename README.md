@@ -1,53 +1,43 @@
-## Hi there 👋
-
-<!--
-**Thaumonaut/Thaumonaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# My Name is Jacob Perry
-though I sometimes also go by jek (itmejek) online
-
 Hello, GitHub! 👋
+# My Name is Jacob Perry
+(*He/Him*)
 
-I'm Jacob, a student at Brigham Young University-Idaho interested in user interface and software development. Welcome to my GitHub profile!
+I'm a **student** at Brigham Young University-Idaho interested in **user interface and software development**. Please have a look around and if you find anything that interests you reach out and let's chat about it!
 
-## About Me
+## ✨About Me ✨
 
-- I'm currently learning about programming for micro computers like the ESP-32 and Arduino for small home projects. I enjoy the challenge and mixing physical hardware with software in unique ways to solve problems.
-- My goals are to become proficient with many types of programming languages and architectures. I am always excited to tinker with new languages and I hope that I can improve my ability to read documentations better so I can learn even faster.
-- Ask me about what I am currently working on, I am sure that I have a project that we can have a great chat about.
+- 🌱 I'm currently learning about programming for micro computers like the **ESP-32** and **Arduino** for small home projects. I enjoy the challenge and mixing physical hardware with software in unique ways to solve problems.
 
-## Technologies and Tools
+-  🏁My goals are to become proficient with many types of programming languages and architectures. I am always excited to tinker with new languages and I hope that I can improve my ability to read documentations better so I can learn even faster.
 
-- Proficient in:
-	- JSX
-	- React
-	- JavaScript / TypeScript
-	- SQL
-	- Python
-	- Rust
-	- HTML/CSS
+- 🗣️ Ask me about what I am currently working on, I am sure that I have a project that we can have a great chat about.
 
-- Skills: 
-	- Customer Service
-	- Problem-solving
-	- Leadership
-	- Organization
+## Technologies and Tools 💻
 
-## Let's Connect!
+### 🧑‍💻 Proficient in:
+- JSX
+- React
+- JavaScript / TypeScript
+- SQL
+- Python
+- Rust
+- HTML/CSS
 
-- Here is my [LinkedIn](https://www.linkedin.com/in/jacobrperry/) profile
+### 💪 Skills: 
+- Customer Service
+- Problem-solving
+- Leadership
+- Organization
+
+## Let's Connect! 🙌
+
+🖥️ Here is my [LinkedIn](https://www.linkedin.com/in/jacobrperry/) profile
+📨 Email me at [perryjacob@outlook.com](perryjacob@outlook.com)
 <!-- Here is my [Twitter](Your Twitter Profile Link) profile --->
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
+
+If you want to connect outside of programming I also am interested in photography and music.
+
+📸 [Photography](https://jekphotography.pixieset.com/) 
+🎵 [Music](https://www.youtube.com/@SentinusMusic)
