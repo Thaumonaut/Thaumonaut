@@ -31,8 +31,8 @@ I'm a **student** at Brigham Young University-Idaho interested in **user interfa
 
 ## Let's Connect! 🙌
 
-🖥️ Here is my [LinkedIn](https://www.linkedin.com/in/jacobrperry/) profile
-📨 Email me at [perryjacob@outlook.com](perryjacob@outlook.com)
+- 🖥️ Here is my [LinkedIn](https://www.linkedin.com/in/jacobrperry/) profile
+- 📨 Email me at [perryjacob@outlook.com](perryjacob@outlook.com)
 <!-- Here is my [Twitter](Your Twitter Profile Link) profile --->
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
